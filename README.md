@@ -1,16 +1,17 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
-
-# 🌤️ Weather App
+# 🌤️ Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
 
 A sleek and modern weather forecast web app built with **React**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui**. It fetches real-time weather data using the **OpenWeatherMap API** and displays temperature, wind, humidity, and more in a clean UI.
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live app](https://your-live-site-link.com)
+👉 [Click here to view the live app](https://cloudweathersoham.netlify.app/)
 
 ## 📸 Preview
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot 1](https://github.com/SohamSarkar025/CloudWeather/blob/main/public/Demo1.PNG)
+![Weather App Screenshot 2](https://github.com/SohamSarkar025/CloudWeather/blob/main/public/Demo2.PNG)
+![Weather App Screenshot 3](https://github.com/SohamSarkar025/CloudWeather/blob/main/public/Demo3.PNG)
+![Weather App Screenshot 4](https://github.com/SohamSarkar025/CloudWeather/blob/main/public/Demo4.PNG)
 
 ## 🛠️ Tech Stack
 
